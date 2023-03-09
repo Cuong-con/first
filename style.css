@@ -1,0 +1,48 @@
+
+h1{
+    font-size:80px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    margin-left: 600px;
+    padding: 0;
+}
+#nameshop{
+    font-size: 50px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 800px;
+}
+img{
+    width: 50em;
+    height: 22em;
+    text-align: center;
+    margin-top: -100%;
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(31, 31, 87);
+}
+li a{
+    float: left;
+    display: block;
+    color: white;
+    padding: 1%;
+    text-align: center;
+    text-decoration: none;
+    font-size: 350%;
+}
+li a:hover{
+    background-color: rgb(92, 92, 108);
+}
+#first{
+    width: 100%;
+    height: 15em;
+}
+#threePng{
+    width: 30em;
+    height: 20em;
+    margin-top: -100%;
+    margin-bottom: 50px;
+    margin-left: 70%;
+}
